@@ -8,6 +8,8 @@ https://media.istockphoto.com/vectors/male-and-female-symbols-on-corner-of-white
 
 https://cdn5.vectorstock.com/i/1000x1000/11/39/group-of-female-and-male-icons-on-white-background-vector-3541139.jpg
 
+https://media.istockphoto.com/vectors/stars-flat-glyph-icons-set-starry-night-falling-star-firework-twinkle-vector-id1178294247?Cancel changesk=20&m=1178294247&s=612x612&w=0&h=rhOLjofQPi-_2xQfGh1Ie7wUyNHnUYXaofxHr4B-QAk=
+
 ### Shapes
 Three groups:
 - Male Groups with Male icons and Light Blue
@@ -24,5 +26,7 @@ I think I achieve my goal mostly.
 
 ### Credits
 Credit: Daniel Shiffman (https://natureofcode.com/)
+
 Edited by: Asiiah Song
+
 Designed by Uni Huang
